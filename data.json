@@ -1,0 +1,1118 @@
+
+  {
+    "universities": [
+      {
+        "state": "Andhra Pradesh",
+        "institutions": [
+          {
+            "name": "Andhra Loyola College, Vijayawada",
+            "trades": ["Paramedical and Health Administration", "Renewable Energy Management"],
+            "location": "Vijayawada",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Ch. S. D. St. Theresa’s Autonomous College for Women, Eluru",
+            "trades": ["Clinical and Aqua Lab. Technology", "Web Technologies and Multimedia"],
+            "location": "Eluru",
+            "average_fees": "twenty three thousand",
+            "average_expected_salary": "two hundred eighty thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Pithapur Raja’s Government College, Kakinada",
+            "trades": ["Retail Management", "Commercial Aquaculture"],
+            "location": "Kakinada",
+            "average_fees": "twenty four thousand",
+            "average_expected_salary": "two hundred ninety thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Sri Padmavati Mahila Viswavidyalaya, Tirupati",
+            "trades": ["Fashion Technology and Apparel Designing", "Nutrition and Health Care Science"],
+            "location": "Tirupati",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "St. Francis College for Women, Hyderabad",
+            "trades": ["Industrial Microbiology", "Retail Management and IT"],
+            "location": "Hyderabad",
+            "average_fees": "twenty seven thousand",
+            "average_expected_salary": "three hundred twenty thousand",
+            "average_course_duration": "3 years"
+          }
+        ]
+      },
+      {
+        "state": "Assam",
+        "institutions": [
+          {
+            "name": "Abhayapuri College",
+            "trades": ["Information Technology", "Tourism and Travel Management"],
+            "location": "Abhayapuri",
+            "average_fees": "twenty two thousand",
+            "average_expected_salary": "two hundred eighty thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Chaiduar College",
+            "trades": ["Paramedical and Health Care", "Mass Media"],
+            "location": "Chaiduar",
+            "average_fees": "twenty one thousand",
+            "average_expected_salary": "two hundred seventy thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Jagiroad College",
+            "trades": ["Retail Management", "Entertainment (Acting)"],
+            "location": "Jagiroad",
+            "average_fees": "twenty three thousand",
+            "average_expected_salary": "two hundred ninety thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Kaliabor College",
+            "trades": ["Tourism and Service Industry", "Small Tea Garden Management"],
+            "location": "Kaliabor",
+            "average_fees": "twenty four thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Nazira College",
+            "trades": ["Fashion Designing", "Information Technology"],
+            "location": "Nazira",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "PUB Kamrup College",
+            "trades": ["Food Processing and Quality Management", "Software Development and Systems Administration"],
+            "location": "Kamrup",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred twenty thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Sonapur College",
+            "trades": ["Theatre & Stage Craft", "Retail Management & IT"],
+            "location": "Sonapur",
+            "average_fees": "twenty four thousand",
+            "average_expected_salary": "two hundred ninety thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Tezpur University",
+            "trades": ["Renewable Energy", "Food Processing"],
+            "location": "Tezpur",
+            "average_fees": "twenty seven thousand",
+            "average_expected_salary": "three hundred thirty thousand",
+            "average_course_duration": "3 years"
+          }
+        ]
+      },
+      {
+        "state": "Bihar",
+        "institutions": [
+          {
+            "name": "Kalawati Snatak Mahavidyalaya",
+            "trades": ["Retail Management", "Fashion Technology"],
+            "location": "Bihar",
+            "average_fees": "twenty two thousand",
+            "average_expected_salary": "two hundred eighty thousand",
+            "average_course_duration": "3 years"
+          }
+        ]
+      },
+      {
+        "state": "Chhattisgarh",
+        "institutions": [
+          {
+            "name": "Indira Kala Sangeet Vishwavidyalaya",
+            "trades": ["Textile Design", "Fashion Design"],
+            "location": "Chhattisgarh",
+            "average_fees": "twenty four thousand",
+            "average_expected_salary": "two hundred ninety thousand",
+            "average_course_duration": "3 years"
+          }
+        ]
+      },
+      {
+        "state": "Gujarat",
+        "institutions": [
+          {
+            "name": "C.P Patel & F H Shah Commerce College",
+            "trades": ["Banking & Financial Services", "Software Development"],
+            "location": "Gujarat",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Hemchandracharya North Gujarat University",
+            "trades": ["Fashion Design and Management", "Tourism and Hospitality Management"],
+            "location": "Gujarat",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "N.S. Patel Arts College",
+            "trades": ["Retail Management", "Hospitality and Tourism"],
+            "location": "Gujarat",
+            "average_fees": "twenty four thousand",
+            "average_expected_salary": "two hundred ninety thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Pramukh Swami Science and H.D. Patel Arts College",
+            "trades": ["Textile and Ginning Technology", "Pharmaceutical Chemistry"],
+            "location": "Gujarat",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Shree Manibhai & Smt. Navalben Virani Science College",
+            "trades": ["Medical Lab and Molecular Diagnostic Technology", "Applied Computer Technology"],
+            "location": "Gujarat",
+            "average_fees": "twenty seven thousand",
+            "average_expected_salary": "three hundred twenty thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Tolani Commerce College",
+            "trades": ["Software Development", "Building Technology"],
+            "location": "Gujarat",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          }
+        ]
+      },
+      {
+        "state": "Haryana",
+        "institutions": [
+          {
+            "name": "Aggarwal College, Ballabhgarh",
+            "trades": ["Retail Management", "Software Development"],
+            "location": "Ballabhgarh",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Arya College, Panipat",
+            "trades": ["Textile and Fashion Designing", "Interior Designing"],
+            "location": "Panipat",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "D.A.V. College For Girls, Yammuna Nagar",
+            "trades": ["Software Development", "Hospitality Management"],
+            "location": "Yammuna Nagar",
+            "average_fees": "twenty four thousand",
+            "average_expected_salary": "two hundred ninety thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "KVA DAV College for Women, Karnal",
+            "trades": ["Food Science & Quality Control", "Fashion Technology"],
+            "location": "Karnal",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          }
+        ]
+      },
+      {
+        "state": "Jammu & Kashmir",
+        "institutions": [
+          {
+            "name": "Central University of Jammu",
+            "trades": ["Retail Management", "Tourism Management"],
+            "location": "Jammu",
+            "average_fees": "twenty four thousand",
+            "average_expected_salary": "two hundred ninety thousand",
+            "average_course_duration": "3 years"
+          }
+        ]
+      },
+      {
+        "state": "Jharkhand",
+        "institutions": [
+          {
+            "name": "St. Xavier’s College, Ranchi",
+            "trades": ["Building Construction Management", "Fashion Technology"],
+            "location": "Ranchi",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          }
+        ]
+      },
+      {
+        "state": "Karnataka",
+        "institutions": [
+          {
+            "name": "J.S.S. College for Women, Mysore",
+            "trades": ["Software Development", "Retail Management"],
+            "location": "Mysore",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "JSS College of Arts, Commerce and Science, Mysore",
+            "trades": ["Food Processing and Engineering", "Software Development"],
+            "location": "Mysore",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Jyoti Niwas College, Bangalore",
+            "trades": ["Banking and Finance", "Theatre Arts"],
+            "location": "Bangalore",
+            "average_fees": "twenty seven thousand",
+            "average_expected_salary": "three hundred twenty thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Maharani Lakshmi Ammanni College for Women, Bengaluru",
+            "trades": ["Data and Web Analytics", "Medical Lab Technology"],
+            "location": "Bengaluru",
+            "average_fees": "twenty eight thousand",
+            "average_expected_salary": "three hundred thirty thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Mount Carmel College, Bangalore",
+            "trades": ["Hospitality & Tourism Analytics"],
+            "location": "Bangalore",
+            "average_fees": "twenty nine thousand",
+            "average_expected_salary": "three hundred forty thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "St. Joseph’s College, Bangalore",
+            "trades": ["Visual Media & Film Making", "Digital Media & Animation"],
+            "location": "Bangalore",
+            "average_fees": "thirty thousand",
+            "average_expected_salary": "three hundred fifty thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Tumkur University",
+            "trades": ["Hardware Technology and Networking", "Visual and Applied Arts"],
+            "location": "Tumkur",
+            "average_fees": "twenty eight thousand",
+            "average_expected_salary": "three hundred thirty thousand",
+            "average_course_duration": "3 years"
+          }
+        ]
+      },
+      {
+        "state": "Kerala",
+        "institutions": [
+          {
+            "name": "Alphonsa College, Kottayam",
+            "trades": ["Fashion Technology", "Sports Nutrition and Physiotherapy"],
+            "location": "Kottayam",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Carmel College, Mala",
+            "trades": ["Software Development", "Multimedia"],
+            "location": "Mala",
+            "average_fees": "twenty four thousand",
+            "average_expected_salary": "two hundred ninety thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Farook College, Kozhikode",
+            "trades": ["Automobiles", "Information Technology"],
+            "location": "Kozhikode",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Kuriakose Elias College, Kottayam",
+            "trades": ["Retail Management & IT", "Marketing Management & IT"],
+            "location": "Kottayam",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Mar Ivanios College, Thiruvananthapur",
+            "trades": ["Tourism and Service Industry", "Software Development"],
+            "location": "Thiruvananthapur",
+            "average_fees": "twenty seven thousand",
+            "average_expected_salary": "three hundred twenty thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "MES College, Aluva",
+            "trades": ["Animation and Graphic Design", "Logistics Management"],
+            "location": "Aluva",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "St. Albert’s College, Kochi",
+            "trades": ["Logistics Management", "Renewable Energy"],
+            "location": "Kochi",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "St. Mary’s College, Thrissur",
+            "trades": ["Software Development", "Multimedia"],
+            "location": "Thrissur",
+            "average_fees": "twenty four thousand",
+            "average_expected_salary": "two hundred ninety thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "St. Michael’s College, Cherthala",
+            "trades": ["Software Development", "Tourism and Service Industry"],
+            "location": "Cherthala",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "St. Thomas College, Pala",
+            "trades": ["Sustainable Agriculture", "Food Processing Technology"],
+            "location": "Pala",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "St. Thomas College, Thrissur",
+            "trades": ["Digital Film Production", "Medical Laboratory Technology"],
+            "location": "Thrissur",
+            "average_fees": "twenty seven thousand",
+            "average_expected_salary": "three hundred twenty thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "St. Aloysius College, Thrissur",
+            "trades": ["Jewellery Designing", "Gemmology"],
+            "location": "Thrissur",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Sullamussalam Science College",
+            "trades": ["Software Technology", "Broadcasting & Journalism"],
+            "location": "Kerala",
+            "average_fees": "twenty four thousand",
+            "average_expected_salary": "two hundred ninety thousand",
+            "average_course_duration": "3 years"
+          }
+        ]
+      },
+      {
+        "state": "Madhya Pradesh",
+        "institutions": [
+          {
+            "name": "Devi Ahilya Vishwavidyalaya, Indore",
+            "trades": ["Interior Design", "Fashion Technology"],
+            "location": "Indore",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Mahatma Gandhi Chitrakoot Gramodaya Vishwavidyalaya",
+            "trades": ["Retail Management & IT", "Renewable Energy Management"],
+            "location": "Chitrakoot",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          }
+        ]
+      },
+   
+      {
+        "state": "Maharashtra",
+        "institutions": [
+          {
+            "name": "Arts & Science College, Pulgaon",
+            "trades": ["Networking & System Administration", "Software Development"],
+            "location": "Pulgaon",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Deogiri College, Aurangabad",
+            "trades": ["Jewellery Design and Gemology", "Multimedia & Animation"],
+            "location": "Aurangabad",
+            "average_fees": "twenty seven thousand",
+            "average_expected_salary": "three hundred twenty thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Dhote Bandhu Science College",
+            "trades": ["Software Development", "Food Processing and Engineering"],
+            "location": "Maharashtra",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Dnyanopasak Shikshan Mandal’s College of Arts, Commerce & Science",
+            "trades": ["Software Development", "Retail Management"],
+            "location": "Maharashtra",
+            "average_fees": "twenty four thousand",
+            "average_expected_salary": "two hundred ninety thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Dr. Babasahab Ambedkar Marathwada University",
+            "trades": ["Industrial Automation", "Automobile"],
+            "location": "Aurangabad",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Fergusson College, Pune",
+            "trades": ["Media & Communication", "Digital Art and Animation"],
+            "location": "Pune",
+            "average_fees": "twenty seven thousand",
+            "average_expected_salary": "three hundred twenty thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "H.R. College of Commerce & Economics, Mumbai",
+            "trades": ["Retail Management", "Tourism & Hospitality Management"],
+            "location": "Mumbai",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Jayasingpur College, Kolhapur",
+            "trades": ["Automobile", "Printing and Publishing"],
+            "location": "Kolhapur",
+            "average_fees": "twenty four thousand",
+            "average_expected_salary": "two hundred ninety thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "J. M. Patel Arts, Commerce & Science College",
+            "trades": ["Retail Marketing", "Software Development"],
+            "location": "Maharashtra",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Jeevan Vikas Mahavidyalaya, Nagpur",
+            "trades": ["Food Processing and Engineering", "Building Technology"],
+            "location": "Nagpur",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Kamala College, Kolhapur",
+            "trades": ["Retail Management and I.T", "Food Processing and Management"],
+            "location": "Kolhapur",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Kamla Nehru Mahavidyalaya, Nagpur",
+            "trades": ["Retail Management", "Software Development"],
+            "location": "Nagpur",
+            "average_fees": "twenty four thousand",
+            "average_expected_salary": "two hundred ninety thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Khandesh College Education Society’s Moolji Jaitha College, Jalgaon",
+            "trades": ["Agriculture", "Printing and Publishing"],
+            "location": "Jalgaon",
+            "average_fees":"twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "KRT Arts, BH Commerce and AM Science College, Nashik",
+            "trades": ["Interior Design", "Printing Technology"],
+            "location": "Nashik",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "KVP’s Kisan Arts, Commerce and Science College, Jalgaon",
+            "trades": ["Software Development", "Soil and Water Conservation"],
+            "location": "Jalgaon",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Late Sow. Kamaltai Jamkar Mahila Mahavidyalaya, Parbhani",
+            "trades": ["Fashion Technology", "Information Technology"],
+            "location": "Parbhani",
+            "average_fees": "twenty four thousand",
+            "average_expected_salary": "two hundred ninety thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Loknete Vyankatrao Hiray Arts, Science & Commerce College",
+            "trades": ["Automobile Technology", "Retail Management"],
+            "location": "Maharashtra",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Nagindas Khandwala College of Commerce Arts & Management Studies, Mumbai",
+            "trades": ["Retail Management", "Tourism & Hospitality Management"],
+            "location": "Mumbai",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "P.E.S Modern College of Arts, Science and Commerce, Pune",
+            "trades": ["Green House Technology", "Food Processing Technology"],
+            "location": "Pune",
+            "average_fees": "twenty seven thousand",
+            "average_expected_salary": "three hundred twenty thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "PDEA’s Baburaoji Gholap College of Arts, Commerce & Science, Pune",
+            "trades": ["Software Development", "Fashion Technology"],
+            "location": "Pune",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Prof. Ramakrishna More Arts, Commerce and Science College, Pune",
+            "trades": ["Software Development", "Food Science Technology"],
+            "location": "Pune",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "R.J. College of Arts, Science & Commerce, Mumbai",
+            "trades": ["Real Estate Management", "Financial Market and Services"],
+            "location": "Mumbai",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Ramnarain Ruia College, Mumbai",
+            "trades": ["Green House Management", "Tourism & Travel Management"],
+            "location": "Mumbai",
+            "average_fees": "twenty seven thousand",
+            "average_expected_salary": "three hundred twenty thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Sangamner Nagarpalika Arts, D.J. Malpani Commerce and B.N. Sarda Science College, Ahmednagar",
+            "trades": ["Software Development", "Hospitality and Tourism"],
+            "location": "Ahmednagar",
+            "average_fees": "twenty four thousand",
+            "average_expected_salary": "two hundred ninety thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Sahakar Maharishi Late Bhaskarrao Shinge Arts College, Buldhana",
+            "trades": ["Farm Equipments and Machinery", "Vehicle Testing"],
+            "location": "Buldhana",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Sant Ramdas Arts, Commerce and Science College, Jalna",
+            "trades": ["Theatre Study and Acting", "Horticulture Science"],
+            "location": "Jalna",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Sharad Chandra Arts & Commerce College, Nagpur",
+            "trades": ["Automotive", "Building Technology"],
+            "location": "Nagpur",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "St. Xavier’s College, Mumbai",
+            "trades": ["Software Development", "Tourism"],
+            "location": "Mumbai",
+            "average_fees": "twenty seven thousand",
+            "average_expected_salary": "three hundred twenty thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Tuljaram Chaturchand College, Pune",
+            "trades": ["Journalism & Mass Communication", "Food Processing and Post harvest Technology"],
+            "location": "Pune",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "University of Pune, Pune",
+            "trades": ["Renewable Energy", "Jewellery Design & Gemology"],
+            "location": "Pune",
+            "average_fees": "twenty eight thousand",
+            "average_expected_salary": "three hundred thirty thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Vikas Night College of Arts, Science & Commerce, Mumbai",
+            "trades": ["Media Production", "Medical Lab Technology"],
+            "location": "Mumbai",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Vivekanand College, Kolhapur",
+            "trades": ["Graphic Design", "Foundry Technology"],
+            "location": "Kolhapur",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "VMV Commerce, JMT Arts & JJP Science College, Nagpur",
+            "trades": ["Theatre & Stage Craft", "Acting"],
+            "location": "Nagpur",
+            "average_fees": "twenty four thousand",
+            "average_expected_salary": "two hundred ninety thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Waghire College, Pune",
+            "trades": ["Tourism and Hospitality Management", "Retail Management"],
+            "location": "Pune",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "YCSP Mandal’s Dadasahev Digambar Shankar Patil Arts, Commerce and Science College, Jalgaon",
+            "trades": ["Automobile Technology", "Software Development"],
+            "location": "Jalgaon",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          }
+        ]
+      },
+      {
+        "state": "Manipur",
+        "institutions": [
+          {
+            "name": "Kha Manipur College",
+            "trades": ["Tourism & Hospitality Management", "Food Processing & Engineering"],
+            "location": "Manipur",
+            "average_fees": "twenty two thousand",
+            "average_expected_salary": "two hundred eighty thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Nambol L. Sanoi College",
+            "trades": ["Software Development", "Sericulture"],
+            "location": "Nambol",
+            "average_fees": "twenty one thousand",
+            "average_expected_salary": "two hundred seventy thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Naoram Birahari College",
+            "trades": ["Food Processing Technology", " Fashion Technology"],
+            "location": "Birahari",
+            "average_fees": "twenty three thousand",
+            "average_expected_salary": "two hundred ninety thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "S. Kula Women’s College",
+            "trades": ["Processing & Food Engineering", "Fashion Technology"],
+            "location": "Kula",
+            "average_fees": "twenty four thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "South East Manipur College",
+            "trades": ["Food Processing & Engineering", "Information and IT Services"],
+            "location": "Manipur",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Thoubal College",
+            "trades": ["Tourism & Hospitality Management", "Food Processing & Engineering"],
+            "location": "Thoubal",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred twenty thousand",
+            "average_course_duration": "3 years"
+          }
+        ]
+      },
+      {
+        "state": "Nagaland",
+        "institutions": [
+          {
+            "name": "Nagaland University, Deptt. of Horticulture",
+            "trades": ["Plant Propagation", "Nursery Management Technology"],
+            "location": "Nagaland",
+            "average_fees": "twenty four thousand",
+            "average_expected_salary": "two hundred ninety thousand",
+            "average_course_duration": "3 years"
+          }
+        ]
+      },
+      {
+        "state": "Punjab",
+        "institutions": [
+          {
+            "name": "A.S. College, Khanna",
+            "trades": ["Banking Financial Services and Insurance", "Multimedia"],
+            "location": "Khanna",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Apeejay College of Fine Arts, Jalandhar",
+            "trades": ["Theatre & Stage Craft", "Media and Entertainment"],
+            "location": "Jalandhar",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "BBK DAV College for Women, Amritsar",
+            "trades": ["Theatre and Stage Craft", "Entertainment Technology"],
+            "location": "Amritsar",
+            "average_fees": "twenty four thousand",
+            "average_expected_salary": "two hundred ninety thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Doaba College, Jalandhar",
+            "trades": ["Financial Market Management", "Modern Office Practices"],
+            "location": "Jalandhar",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "G.S.S.D.G.S. Khalsa College, Patiala",
+            "trades": ["Software Development", "Food Processing and Engineering"],
+            "location": "Patiala",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Goswami Ganesh Dutta S.D. College, Chandigarh",
+            "trades": ["Retail Management", "Food Processing and Preservation"],
+            "location": "Chandigarh",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Guru Nanak College, Budhlada",
+            "trades": ["Software Development", "Fashion Technology"],
+            "location": "Budhlada",
+            "average_fees": "twenty four thousand",
+            "average_expected_salary": "two hundred ninety thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Guru Nanak Dev University College, Patti",
+            "trades": ["Refrigeration and Air Conditioning", "Automobile Technology"],
+            "location": "Patti",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "course_duration": "3 years"
+          },
+          {
+            "name": "Guru Nanak Dev University College, Verka",
+            "trades": ["Refrigeration and Air Conditioning", "Automobile Technology"],
+            "location": "Verka",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Hans Raj Mahila Mahavidyalaya, Jalandhar",
+            "trades": ["Web Technology and Multimedia", "Banking & Financial Services"],
+            "location": "Jalandhar",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Kamla Nehru College for Women, Kapurthala",
+            "trades": ["Fashion Technology", "Journalism and Mass Communication"],
+            "location": "Kapurthala",
+            "average_fees": "twenty four thousand",
+            "average_expected_salary": "two hundred ninety thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Khalsa College for Women, Amritsar",
+            "trades": ["Retail Management and IT", "Fashion Styling and Grooming"],
+            "location": "Amritsar",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Lyallpur Khalsa College, Jalandhar",
+            "trades": ["Software Development", "Printing Technology"],
+            "location": "Jalandhar",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Mata Gujri College, Fatehgarh Sahib",
+            "trades": ["Retail Management", "Software Development"],
+            "location": "Fatehgarh Sahib",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Amar Shaheed Baba Ajit Singh Jujhar Singh Memorial College, Ropar",
+            "trades": ["Food Processing", "Retail Management and IT"],
+            "location": "Ropar",
+            "average_fees": "twenty four thousand",
+            "average_expected_salary": "two hundred ninety thousand",
+            "average_course_duration": "3 years"
+          }
+        ]
+      },
+      {
+        "state": "Rajasthan",
+        "institutions": [
+          {
+            "name": "Banasthali Vidyapeeth",
+            "trades": ["Software Development", "Fashion Design & Technology"],
+            "location": "Banasthali",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          }
+        ]
+      },
+      {
+        "state": "Tamil Nadu",
+        "institutions": [
+          {
+            "name": "Alagappa University, Karaikudi",
+            "trades": ["Fashion Technology", "Software Development"],
+            "location": "Karaikudi",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Annamalai University, Annamalai Nagar",
+            "trades": ["Hospital Instrumentation and Management", "Catering Technology and Hotel Management"],
+            "location": "Annamalai Nagar",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Bharathiar University, Coimbatore",
+            "trades": ["Business Process and Data Analytics", "Multimedia and Animation"],
+            "location": "Coimbatore",
+            "average_fees": "twenty seven thousand",
+            "average_expected_salary": "three hundred twenty thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Madras Christian College, Chennai",
+            "trades": ["Retail Management and IT", "Hospitality and Tourism"],
+            "location": "Chennai",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "PSG College of Arts & Science, Coimbatore",
+            "trades": ["Hospitality Management", "Food Processing Technology"],
+            "location": "Coimbatore",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "PSGR Krishnammal College for Women, Coimbatore",
+            "trades": ["Garment Designing", "Beauty Therapy and Aesthetics"],
+            "location": "Coimbatore",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "St. Joseph’s College for Women, Tiruchirapalli",
+            "trades": ["Software Development and System Administration", "Visual Communication Technology"],
+            "location": "Tiruchirapalli",
+            "average_fees": "twenty seven thousand",
+            "average_expected_salary": "three hundred twenty thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Avinashlingam Institute of Home Science, Coimbatore",
+            "trades": ["Medical Equipment Technology", "Food Processing and Engineering"],
+            "location": "Coimbatore",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          }
+        ]
+      },
+      {
+        "state": "Uttar Pradesh",
+        "institutions": [
+          {
+            "name": "Aligarh Muslim University, Aligarh",
+            "trades": ["Production Technology (Tool & Die)", "Fashion Design & Garment Technology"],
+            "location": "Aligarh",
+            "average_fees": "twenty seven thousand",
+            "average_expected_salary": "three hundred twenty thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Babasaheb Bhimrao Ambedkar University, Lucknow",
+            "trades": ["Live Stock Production & Management", "Floriculture & Landscape Gardening"],
+            "location": "Lucknow",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Dayalbagh Educational Institute, Agra",
+            "trades": ["Apparel Manufacturing", "Food Processing & Preservation"],
+            "location": "Agra",
+            "average_fees": "twenty four thousand",
+            "average_expected_salary": "two hundred ninety thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Hamidia Girl’s Degree College, Allahabad",
+            "trades": ["Journalism & Mass Communication", "Fashion Design And Embroidery"],
+            "location": "Allahabad",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "National Post Graduate College, Lucknow",
+            "trades": ["Software Development & e-governance", "Banking and Finance"],
+            "location": "Lucknow",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Sri Agrasen Kanya P.G. College, Varanasi",
+            "trades": ["Interior Designing", "Food Processing and Engineering"],
+            "location": "Varanasi",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "University of Lucknow, Lucknow",
+            "trades": ["Renewable Energy Technology", "Gemmology"],
+            "location": "Lucknow",
+            "average_fees": "twenty seven thousand",
+            "average_expected_salary": "three hundred twenty thousand",
+            "average_course_duration": "3 years"
+          }
+        ]
+      },
+      {
+        "state": "West Bengal",
+        "institutions": [
+          {
+            "name": "Asutosh College, Kolkata",
+            "trades": ["Software Development", "Industrial Aquaculture and Fisheries"],
+            "location": "Kolkata",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "duration": "3 years"
+          },
+          {
+            "name": "Belda College, Paschim Medinipur",
+            "trades": ["Software Development", "Theatre and Stage Craft"],
+            "location": "Paschim Medinipur",
+            "average_fees": "twenty four thousand",
+            "average_expected_salary": "two hundred ninety thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Derozio Memorial College",
+            "trades": ["Media in Broadcast Journalism", "Printing in Book Publishing"],
+            "location": "Kolkata",
+            "average_fees": "twenty five thousand",
+            "average_expected_salary": "three hundred thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Mahishadal Girl’s College",
+            "trades": ["Theatre Arts", "Software Development"],
+            "location": "Mahishadal",
+            "average_fees": "twenty six thousand",
+            "average_expected_salary": "three hundred ten thousand",
+            "average_course_duration": "3 years"
+          },
+          {
+            "name": "Ramnagar College, Purba Medinipur",
+            "trades": ["Hospitality and Tourism Management", "Fisheries & Farm Management"],
+            "location": "Purba Medinipur",
+            "average_fees": "twenty four thousand",
+            "average_expected_salary": "two hundred ninety thousand",
+            "average_course_duration": "3 years"
+          }
+        ]
+      }
+    ]
+  }
+          
